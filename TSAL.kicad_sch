@@ -5634,7 +5634,7 @@
 		(uuid "9fdd0f35-1546-4e90-885c-6865476058ad")
 	)
 	(junction
-		(at 304.8 227.33)
+		(at 281.94 227.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a330cc1a-bc9f-41b3-8cca-ac9eca28eb79")
@@ -5664,7 +5664,7 @@
 		(uuid "a8ff2204-60f0-4e39-b84e-2655267a4ee0")
 	)
 	(junction
-		(at 320.04 220.98)
+		(at 297.18 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ac22b562-0d13-4077-aa0b-d513098ad230")
@@ -6385,7 +6385,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 227.33) (xy 312.42 227.33)
+			(xy 281.94 227.33) (xy 289.56 227.33)
 		)
 		(stroke
 			(width 0)
@@ -6545,7 +6545,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 228.6) (xy 304.8 227.33)
+			(xy 281.94 228.6) (xy 281.94 227.33)
 		)
 		(stroke
 			(width 0)
@@ -6675,7 +6675,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 232.41) (xy 320.04 234.95)
+			(xy 297.18 232.41) (xy 297.18 234.95)
 		)
 		(stroke
 			(width 0)
@@ -6825,7 +6825,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 208.28) (xy 320.04 212.09)
+			(xy 297.18 208.28) (xy 297.18 212.09)
 		)
 		(stroke
 			(width 0)
@@ -7175,7 +7175,7 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 227.33) (xy 304.8 227.33)
+			(xy 275.59 227.33) (xy 281.94 227.33)
 		)
 		(stroke
 			(width 0)
@@ -7535,7 +7535,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 220.98) (xy 320.04 222.25)
+			(xy 297.18 220.98) (xy 297.18 222.25)
 		)
 		(stroke
 			(width 0)
@@ -7795,7 +7795,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 219.71) (xy 320.04 220.98)
+			(xy 297.18 219.71) (xy 297.18 220.98)
 		)
 		(stroke
 			(width 0)
@@ -8205,7 +8205,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 220.98) (xy 326.39 220.98)
+			(xy 297.18 220.98) (xy 303.53 220.98)
 		)
 		(stroke
 			(width 0)
@@ -8305,7 +8305,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 236.22) (xy 304.8 237.49)
+			(xy 281.94 236.22) (xy 281.94 237.49)
 		)
 		(stroke
 			(width 0)
@@ -9014,7 +9014,7 @@
 	)
 	(global_label "latch_in"
 		(shape input)
-		(at 326.39 220.98 0)
+		(at 303.53 220.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9024,7 +9024,7 @@
 		)
 		(uuid "773f8c46-2e21-475c-b7a9-76b3a1debbc7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 336.8741 220.98 0)
+			(at 314.0141 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9432,7 +9432,7 @@
 	)
 	(global_label "5v"
 		(shape input)
-		(at 320.04 208.28 90)
+		(at 297.18 208.28 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9442,7 +9442,7 @@
 		)
 		(uuid "c086c91f-f45e-4520-ab24-943b7bbc7454")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 320.04 203.1177 90)
+			(at 297.18 203.1177 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9946,7 +9946,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 304.8 232.41 0)
+		(at 281.94 232.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9955,7 +9955,7 @@
 		(fields_autoplaced yes)
 		(uuid "09cd4292-e5c2-45ff-8d8c-69fb0b74aafa")
 		(property "Reference" "C2"
-			(at 308.61 230.2509 0)
+			(at 285.75 230.2509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9964,7 +9964,7 @@
 			)
 		)
 		(property "Value" "47u"
-			(at 308.61 232.7909 0)
+			(at 285.75 232.7909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9973,7 +9973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 305.7652 236.22 0)
+			(at 282.9052 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9982,7 +9982,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 304.8 232.41 0)
+			(at 281.94 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9991,7 +9991,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 304.8 232.41 0)
+			(at 281.94 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10771,7 +10771,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 320.04 234.95 0)
+		(at 297.18 234.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10779,7 +10779,7 @@
 		(dnp no)
 		(uuid "24769b84-2df4-4e67-8be0-d2cb53c8de5e")
 		(property "Reference" "#PWR020"
-			(at 320.04 241.3 0)
+			(at 297.18 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10788,7 +10788,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 320.294 239.014 0)
+			(at 297.434 239.014 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10796,7 +10796,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 320.04 234.95 0)
+			(at 297.18 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10805,7 +10805,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 234.95 0)
+			(at 297.18 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10814,7 +10814,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-			(at 320.04 234.95 0)
+			(at 297.18 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11215,7 +11215,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 320.04 215.9 0)
+		(at 297.18 215.9 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11224,7 +11224,7 @@
 		(dnp no)
 		(uuid "303ca919-67bc-47cc-b1c2-cbddab3547ba")
 		(property "Reference" "R30"
-			(at 317.5 214.6299 0)
+			(at 294.64 214.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11233,7 +11233,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 317.5 217.1699 0)
+			(at 294.64 217.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11242,7 +11242,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 319.024 216.154 90)
+			(at 296.164 216.154 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11251,7 +11251,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 320.04 215.9 0)
+			(at 297.18 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11260,7 +11260,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 320.04 215.9 0)
+			(at 297.18 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14459,7 +14459,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:2N3904")
-		(at 317.5 227.33 0)
+		(at 294.64 227.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14467,7 +14467,7 @@
 		(dnp no)
 		(uuid "92c97313-bb08-407d-ab83-0194fe63e024")
 		(property "Reference" "Q3"
-			(at 322.58 226.0599 0)
+			(at 299.72 226.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14476,7 +14476,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 322.58 228.5999 0)
+			(at 299.72 228.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14485,7 +14485,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 322.58 229.235 0)
+			(at 299.72 229.235 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14496,7 +14496,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
-			(at 317.5 227.33 0)
+			(at 294.64 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14506,7 +14506,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
-			(at 317.5 227.33 0)
+			(at 294.64 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15224,7 +15224,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 304.8 237.49 0)
+		(at 281.94 237.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15232,7 +15232,7 @@
 		(dnp no)
 		(uuid "abff36a0-796b-4c87-9142-11238f337372")
 		(property "Reference" "#PWR023"
-			(at 304.8 243.84 0)
+			(at 281.94 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15241,7 +15241,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 305.054 241.554 0)
+			(at 282.194 241.554 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15249,7 +15249,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 304.8 237.49 0)
+			(at 281.94 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15258,7 +15258,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 304.8 237.49 0)
+			(at 281.94 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15267,7 +15267,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-			(at 304.8 237.49 0)
+			(at 281.94 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
